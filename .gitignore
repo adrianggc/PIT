@@ -1,0 +1,15 @@
+/trenchbroom/
+/source/
+/tools/
+*.PAK
+*.dll
+*.zip
+*.exe
+*.sav
+*/compile.bat
+Quakespasm.html
+Quakespasm.txt
+Quakespasm-Music.txt
+history.txt
+LICENSE.txt
+*.prt
